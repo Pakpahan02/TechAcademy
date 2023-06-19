@@ -1,0 +1,73 @@
+body {
+	margin:  0;
+	padding: 0;
+	background: radial-gradient(#0A85ED,#0C63E7,#0D41E1);
+	height: 100vh;
+	overflow: hidden;
+}
+
+.center {
+	width: 430px;
+	margin: 130px auto;
+	position: relative;
+}
+
+.center .header {
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+	padding: 25px 0 30px 25px;
+	background: #19267e;
+	border-bottom: 1px solid #09267e;
+	border-radius: 5px 5px 0 0;
+}
+
+.center form {
+	position: absolute;
+	background: white;
+	width: 100%;
+	padding: 50px 10px 0 30px;
+	box-sizing: border-box;
+	border: 1px solid #18267e;
+	border-radius: 0 0 5px 5px;
+}
+
+form input {
+	height: 50px;
+	width: 90%;
+	padding: 0 10px;
+	border-radius: 3px;
+	border: 1px solid silver;
+	font-size: 18px;
+	outline: none;
+}
+
+form input[type = "password"] {
+	margin-top: 20px;
+}
+
+form button {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	width: 130px;
+	height: 45px;
+	color: white;
+	cursor: pointer;
+	line-height: 45px;
+	border-radius: 5px;
+	background: #19267e;
+	font-size: 20px;
+}
+
+form a {
+	text-decoration: none;
+	font-size: 18px;
+	color: #29267e;
+	padding: 0 0 0 20px;
+	margin-left: 10px;
+}
+
+.team .section-title img {
+	height: 100px;
+	width: auto;
+}
