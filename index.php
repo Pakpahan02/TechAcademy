@@ -52,7 +52,7 @@
                 <li><a href="#home-section" class="nav-link">Home</a></li>
                 <li><a href="#courses-section" class="nav-link">Courses</a></li>
                 <li><a href="#programs-section" class="nav-link">Programs</a></li>
-                <li><a href="#ourteam-section" class="nav-link">OurTeam</a></li>
+                <li><a href="#ourteam-section" class="nav-link">Our Team</a></li>
               </ul>
             </nav>
           </div>
@@ -158,7 +158,7 @@
               <div class="course-inner-text py-4 px-4">
                 <span class="course-price">Gratis</span>
                 <div class="meta"><span class="icon-clock-o"></span>7 Materi / 4 Minggu</div>
-                <h3><a href="#">MicrosoftExcel</a></h3>
+                <h3><a href="#">Microsoft Excel</a></h3>
                 <p>Pelatihan Dasar Microsoft Excel untuk pemula. </p>
               </div>
               <div class="d-flex border-top stats">
@@ -174,8 +174,8 @@
               <div class="course-inner-text py-4 px-4">
                 <span class="course-price">Gratis</span>
                 <div class="meta"><span class="icon-clock-o"></span>7 Materi / 3 Minggu</div>
-                <h3><a href="#">Microsoft PowerPoint</a></h3>
-                <p>Pelatihan Dasar Microsoft PowerPoint bagi pemula. </p>
+                <h3><a href="#">Microsoft Power Point</a></h3>
+                <p>Pelatihan Dasar Microsoft Power Point untuk pemula. </p>
               </div>
               <div class="d-flex border-top stats">
                 <div class="py-3 px-4"><span class="icon-users"></span> 50++ Peserta</div>
@@ -191,7 +191,7 @@
                 <span class="course-price">Gratis</span>
                 <div class="meta"><span class="icon-clock-o"></span>6 Materi / 4 Minggu</div>
                 <h3><a href="#">Desain Grafis</a></h3>
-                <p>Pelatihan Dasar Desain Grafis bagi pemula. </p>
+                <p>Pelatihan Dasar Desain Grafis untuk pemula. </p>
               </div>
               <div class="d-flex border-top stats">
                 <div class="py-3 px-4"><span class="icon-users"></span> 50++ Peserta</div>
@@ -207,7 +207,7 @@
                 <span class="course-price">Gratis</span>
                 <div class="meta"><span class="icon-clock-o"></span>10 Materi / 8 Minggu</div>
                 <h3><a href="#">Jaringan Komputer</a></h3>
-                <p>Pelatihan Dasar Jaringan Komputer bagi pemula. </p>
+                <p>Pelatihan Dasar Jaringan Komputer untuk pemula. </p>
               </div>
               <div class="d-flex border-top stats">
                 <div class="py-3 px-4"><span class="icon-users"></span> 50++ Peserta</div>
@@ -319,7 +319,7 @@
               <div class="py-2">
                 <h3 class="text-black"><a href="https://github.com/mocheru">Mochamad Heru Septiana Noor</a></h3>
                 <p class="position">Front-End Dev</p>
-                <p>Mochamad Heru Septiana Noor adalah seorang profesional di bidang pengembangan front-end (pengembangan antarmuka pengguna) dengan pengalaman yang luas dalam industri teknologi. </p>
+                <p>Mochamad Heru adalah seorang Front-End Developer yang berbakat dan berdedikasi. Sebagai seorang Front-End Developer, Heru memiliki pengetahuan mendalam tentang HTML, CSS dan JavaScript.</p>
               </div>
             </div>
           </div>
@@ -330,7 +330,7 @@
               <div class="py-2">
                 <h3 class="text-black"><a href="https://github.com/FirdaAzzahra12">Firda Putri Azzahra</a></h3>
                 <p class="position">Front-End Dev</p>
-                <p>Firda Putri Azzahra adalah seorang Front-End Developer yang berbakat dan berdedikasi. Sebagai seorang Front-End Developer, Firda memiliki pengetahuan mendalam tentang HTML, CSS dan JavaScript. </p>
+                <p>Firda Putri Azzahra adalah seorang profesional di bidang pengembangan front-end (pengembangan antarmuka pengguna) dengan pengalaman yang luas dalam industri teknologi.</p>
               </div>
             </div>
           </div>
@@ -341,7 +341,7 @@
               <div class="py-2">
                 <h3 class="text-black"><a href="https://github.com/Pakpahan02">Edward Bona Franscoist</a></h3>
                 <p class="position">Back-End Dev</p>
-                <p>Sebagai seorang Back-End Developer, Edward memiliki pengetahuan mendalam tentang bahasa pemrograman seperti PHP. Dia juga memiliki pemahaman yang kuat tentang basis data MySQL.</p>
+                <p>Sebagai seorang Back-End Developer, Edward memiliki pengetahuan tentang bahasa pemrograman seperti PHP. Dia juga memiliki pemahaman yang kuat tentang basis data MySQL.</p>
               </div>
             </div>
           </div>
