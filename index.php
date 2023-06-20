@@ -79,7 +79,7 @@
               <div class="row align-items-center">
                 <div class="col-lg-6 mb-4">
                   <h1  data-aos="fade-up" data-aos-delay="100">From Zero To Hero</h1>
-                  <p class="mb-4"  data-aos="fade-up" data-aos-delay="200">Kursus daring yang dapat diakses secara gratis oleh siapa pun melalui internet.</p>
+                  <p class="mb-4"  data-aos="fade-up" data-aos-delay="200">Kursus daring yang dapat diakses secara gratis oleh siapa pun dan dimana pun melalui internet.</p>
                   <p data-aos="fade-up" data-aos-delay="300"><a href="#" class="btn btn-primary py-3 px-5 btn-pill">Join Sekarang</a></p>
 
                 </div>
@@ -386,12 +386,12 @@
 
               <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-graduation-cap"></span></span></div>
-                <div><h3 class="m-0">Kurikulum Kaya</h3></div>
+                <div><h3 class="m-0">Kaya akan kurikulum</h3></div>
               </div>
 
               <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-university"></span></span></div>
-                <div><h3 class="m-0">Pembelajaran Interaktif</h3></div>
+                <div><h3 class="m-0">Pembelajaran yang Interaktif</h3></div>
               </div>
 
               <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
@@ -406,7 +406,7 @@
 
               <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-graduation-cap"></span></span></div>
-                <div><h3 class="m-0">Komunitas Belajar Terbaik</h3></div>
+                <div><h3 class="m-0">Platform Belajar Terbaik</h3></div>
               </div>
 
               <div class="d-flex align-items-center custom-icon-wrap custom-icon-light">
@@ -438,7 +438,7 @@
 
             
             <h2 class="section-title mb-3">Message Us</h2>
-            <p class="mb-5">Jika Anda memiliki saran atau masukan untuk meningkatkan pengalaman pengguna kami, kami dengan senang hati menerimanya. Silakan tinggalkan pesan Anda di bawah ini, dan seorang anggota tim kami akan merespons secepat mungkin. </p>
+            <p class="mb-5">Jika Anda memiliki saran atau masukan untuk meningkatkan pengalaman pengguna kami. Silakan tinggalkan pesan Anda di bawah ini, dan seorang anggota tim kami akan merespons secepat mungkin. </p>
           
             <form method="post" data-aos="fade">
               <div class="form-group row">
